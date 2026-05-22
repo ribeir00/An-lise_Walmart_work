@@ -1,0 +1,20 @@
+# Ambientes virtuais
+env
+.venv
+.vs
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+
+# Arquivos temporários e de sistema
+__pycache__/
+.DS_Store
+*.pyc
+
+# Arquivos de configuração sensíveis (se houver, ex: chaves de API)
+.env
+
+query_duck_py/analise_fraudes.docx
+query_duck_py/.venv
+query_duck_py/env
+query_duck_py/.ipynb_checkpoints
